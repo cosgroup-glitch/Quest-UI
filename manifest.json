@@ -2,7 +2,7 @@
   "id": "quest-ui",
   "name": "Quest UI",
   "version": "1.1.11",
-  "author": "CoSHH",
+  "author": "maze",
   "description": "Labyrinth quest objectives, Quest Log, Credos and Quest Helper, using Brodgar's Lua API.",
   "api_version": "1.0",
   "permissions": ["widget.send"],
