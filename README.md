@@ -1,4 +1,4 @@
-﻿# Quest UI
+# Quest UI
 
 A questing addon for the [Brodgar client](https://irongete.github.io/brodgar-io-client/), based on Labyrinth's Quest Objectives, Credos and Quest Helper.
 
